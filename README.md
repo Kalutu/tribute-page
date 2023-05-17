@@ -2,7 +2,7 @@
 This is a simple tribute page for Wangarĩ Muta Maathai, a Kenyan social, environmental, and political activist who founded the Green Belt Movement. The page provides a brief overview of her life, achievements, and impact on the world.
 
 ## Preview
-![Classic Books Website Preview](images/product-landing-page.PNG)
+![Tribute Page Website Preview](images/tribute-page.PNG)
 
 ## Technologies Used
 The project was developed using HTML and CSS.
